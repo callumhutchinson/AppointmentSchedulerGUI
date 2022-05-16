@@ -1,6 +1,0 @@
-python==2.7.14
-google_api_python_client
-google_auth_oauthlib==0.4.1
-pandas==0.24.2
-protobuf
-PyQt
