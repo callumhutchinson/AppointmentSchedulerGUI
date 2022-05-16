@@ -1,4 +1,4 @@
 # AppointmentSchedulerGUI
-conda env create -f environment.yml
+<code>conda env create -f environment.yml
 conda activate scheduler_gui
-python appointment_scheduler.py
+python appointment_scheduler.py</code>
